@@ -1,0 +1,16 @@
+{
+  "name": "qap2-web-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "http": "^0.0.1-security",
+    "newsapi": "^2.4.1"
+  }
+}
